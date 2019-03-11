@@ -1,0 +1,31 @@
+git add *
+git clone https://github.com/josefinabravo/L0.git clone https://github.com/josef
+inabravo/L0.git
+git add*
+git add *
+git clone https://github.com/josefinabravo/L0.git
+git add *
+dir
+ls
+cd L0
+git add *
+git init
+git add *
+git commit -m "Probando"
+git config global user.email "jfbravo1@uc.cl"
+git config global user.name "Josefina Bravo"
+git config --global user.email "jfbravo1@uc.cl"
+config --global user.name "Josefina Bravo"
+git config --global user.name "Josefina Bravo"
+git commit -m "mensaje"
+git push
+git remote add https://github.com/josefinabravo/L0.git
+git add *
+git commit -m "mensaje"
+git push
+git remote add origin https://github.com/josefinabravo/L0.git
+git push -u origin master
+git pull
+doskey /History
+
+C:\Users\Josefina Bravo\L0>
